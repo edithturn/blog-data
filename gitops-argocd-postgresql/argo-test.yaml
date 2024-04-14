@@ -16,7 +16,7 @@ spec:
 
   instances:
     - name: instance1
-      replicas: 3
+      replicas: 2
       resources:
         limits:
           cpu: 1.0
